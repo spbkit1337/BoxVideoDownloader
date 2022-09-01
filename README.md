@@ -70,7 +70,7 @@
 
 1) Обновление power shell https://winitpro.ru/index.php/2020/05/14/obnovlenie-powershell-v-windows/
 
-2) Видео как обновить power shell https://www.youtube.com/watch?v=HoeLk-RjMLY
+2) Видео как обновить power shell и установить "Chocolatey" https://www.youtube.com/watch?v=HoeLk-RjMLY
 
 3) Сайт с командами по yt-dlp https://www.mankier.com/1/yt-dlp
 
