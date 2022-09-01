@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\Мои программы c#\BoxVideoDownloader\BoxVideoDownloader\BoxVideoDownloader\bin\Debug\BoxVideoDownloader.exe.config
+C:\Users\Denis\Desktop\Мои программы c#\BoxVideoDownloader\BoxVideoDownloader\BoxVideoDownloader\bin\Debug\BoxVideoDownloader.exe
+C:\Users\Denis\Desktop\Мои программы c#\BoxVideoDownloader\BoxVideoDownloader\BoxVideoDownloader\bin\Debug\BoxVideoDownloader.pdb
+C:\Users\Denis\Desktop\Мои программы c#\BoxVideoDownloader\BoxVideoDownloader\BoxVideoDownloader\obj\Debug\BoxVideoDownloader.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Мои программы c#\BoxVideoDownloader\BoxVideoDownloader\BoxVideoDownloader\obj\Debug\BoxVideoDownloader.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denis\Desktop\Мои программы c#\BoxVideoDownloader\BoxVideoDownloader\BoxVideoDownloader\obj\Debug\BoxVideoDownloader.Form1.resources
+C:\Users\Denis\Desktop\Мои программы c#\BoxVideoDownloader\BoxVideoDownloader\BoxVideoDownloader\obj\Debug\BoxVideoDownloader.Properties.Resources.resources
+C:\Users\Denis\Desktop\Мои программы c#\BoxVideoDownloader\BoxVideoDownloader\BoxVideoDownloader\obj\Debug\BoxVideoDownloader.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Мои программы c#\BoxVideoDownloader\BoxVideoDownloader\BoxVideoDownloader\obj\Debug\BoxVideoDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Мои программы c#\BoxVideoDownloader\BoxVideoDownloader\BoxVideoDownloader\obj\Debug\BoxVideoDownloader.exe
+C:\Users\Denis\Desktop\Мои программы c#\BoxVideoDownloader\BoxVideoDownloader\BoxVideoDownloader\obj\Debug\BoxVideoDownloader.pdb
+C:\Users\Denis\Desktop\Мои программы c#\BoxVideoDownloader\BoxVideoDownloader\BoxVideoDownloader\obj\Debug\BoxVideoDownloader.Form2.resources
