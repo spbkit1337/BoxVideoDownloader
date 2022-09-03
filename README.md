@@ -57,13 +57,14 @@
 
 Скриншоты программы🦉
 
-![скрин1](https://user-images.githubusercontent.com/51737588/187923487-325cb3e4-425b-4853-9d9c-5cd21ff39b86.jpg)
 
+![скрин1](https://user-images.githubusercontent.com/51737588/188282525-10a6991f-bce3-4b2d-8b73-66d2865a6721.jpg)
 
 ![скрин2](https://user-images.githubusercontent.com/51737588/187923530-52c6c0b4-af94-4dd1-88a4-57a840af669a.jpg)
 
+![скрин3](https://user-images.githubusercontent.com/51737588/188282535-018bffb2-e920-45fd-ac77-60a58887dc0a.jpg)
 
-![скрин 3](https://user-images.githubusercontent.com/51737588/187923560-52d2d9ef-6ba0-46c8-ba7f-2b8a0b8e0898.jpg)
+
 
 
 Полезные ссылки🔗:
