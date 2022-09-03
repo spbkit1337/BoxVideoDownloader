@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxVideoDownloader", "BoxVideoDownloader\BoxVideoDownloader.csproj", "{8A427A13-E732-475A-980C-8687A53676A2}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BoxVideoDownloader", "..\BoxVideoDownloader setup\BoxVideoDownloader\BoxVideoDownloader.vdproj", "{5386DBCD-C148-45E9-B5BF-158745BD77C7}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BoxVideoDownloader", "..\BoxVideoDownloader install\BoxVideoDownloader\BoxVideoDownloader.vdproj", "{2B91C20D-0887-49C9-9E88-3AC14CDABFF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +17,8 @@ Global
 		{8A427A13-E732-475A-980C-8687A53676A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A427A13-E732-475A-980C-8687A53676A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A427A13-E732-475A-980C-8687A53676A2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5386DBCD-C148-45E9-B5BF-158745BD77C7}.Debug|Any CPU.ActiveCfg = Debug
-		{5386DBCD-C148-45E9-B5BF-158745BD77C7}.Release|Any CPU.ActiveCfg = Release
+		{2B91C20D-0887-49C9-9E88-3AC14CDABFF1}.Debug|Any CPU.ActiveCfg = Debug
+		{2B91C20D-0887-49C9-9E88-3AC14CDABFF1}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

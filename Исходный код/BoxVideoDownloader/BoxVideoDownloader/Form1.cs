@@ -28,6 +28,9 @@ namespace BoxVideoDownloader
         string output2 = System.IO.Path.Combine(Application.StartupPath, "");
         string path = System.IO.Path.Combine(Application.StartupPath, "");
 
+
+        string pathDesktop = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), @"Desktop");
+
         public Form1()
         {
             InitializeComponent();
@@ -205,18 +208,22 @@ namespace BoxVideoDownloader
         //находим файл
         private void pictureBox11_Click(object sender, EventArgs e)
         {
-            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            OpenFileDialog PathAudioOpen = new OpenFileDialog();
+            PathAudioOpen.Filter = "Видео | * .mp4";
+            if (PathAudioOpen.ShowDialog() == DialogResult.OK)
             {
-                output = openFileDialog1.FileName;
+                output = PathAudioOpen.FileName;
                 label10.Text = output.ToString();
             }
         }
         //сохраняем файл
         private void pictureBox9_Click(object sender, EventArgs e)
         {
-            if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+            SaveFileDialog PathAudioSave = new SaveFileDialog();
+            PathAudioSave.Filter = "Аудио | * .mp3";
+            if (PathAudioSave.ShowDialog() == DialogResult.OK)
             {
-                output2 = saveFileDialog1.FileName;
+                output2 = PathAudioSave.FileName;
                 label8.Text = output2.ToString();
             }
         }
@@ -226,13 +233,13 @@ namespace BoxVideoDownloader
         {
             ProcessStartInfo psi = new ProcessStartInfo();
 
-            string PathAudioOpen = output;
-            string PathAudioSave = output2;
+            string AudioOpen = output;
+            string AudioSave = output2;
             //Имя запускаемого приложения
             psi.FileName = "cmd";
             //команда, которую надо выполнить
 
-            psi.Arguments = $" @\"/k ffmpeg -i {PathAudioOpen} -vn -ar 44100 -ac 2 -ab 192K -f mp3 {PathAudioSave}.mp3 ";
+            psi.Arguments = $" @\"/k ffmpeg -i {AudioOpen} -vn -ar 44100 -ac 2 -ab 192K -f mp3 {AudioSave}";
 
 
             //  /c - после выполнения команды консоль закроется
@@ -250,5 +257,10 @@ namespace BoxVideoDownloader
         {
             System.Windows.Forms.Application.Exit();
         }
-    }
+
+
+
+
+}
+
 }
