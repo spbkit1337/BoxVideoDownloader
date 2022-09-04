@@ -62,7 +62,7 @@
 
 ![скрин2](https://user-images.githubusercontent.com/51737588/188301093-062099ab-919b-45ae-8908-5120f827972d.jpg)
 
-![скрин3](https://user-images.githubusercontent.com/51737588/188301096-06e80408-7200-4f2a-8774-9d0c4a058ca2.jpg)
+![скрин3](https://user-images.githubusercontent.com/51737588/188320648-2232dc33-b712-406c-9266-fb36c9e7dddf.jpg)
 
 
 
