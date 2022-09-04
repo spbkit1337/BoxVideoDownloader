@@ -213,7 +213,7 @@ namespace BoxVideoDownloader
             if (PathAudioOpen.ShowDialog() == DialogResult.OK)
             {
                 output = PathAudioOpen.FileName;
-                label10.Text = output.ToString();
+                textBox6.Text = output.ToString();
             }
         }
         //сохраняем файл
@@ -224,7 +224,7 @@ namespace BoxVideoDownloader
             if (PathAudioSave.ShowDialog() == DialogResult.OK)
             {
                 output2 = PathAudioSave.FileName;
-                label8.Text = output2.ToString();
+                textBox7.Text = output2.ToString();
             }
         }
 
@@ -247,6 +247,55 @@ namespace BoxVideoDownloader
             Process.Start(psi);
         }
 
+        //конвертировать в GIF
+
+
+        //открыть видео
+        private void pictureBox18_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog PathAudioOpen = new OpenFileDialog();
+            PathAudioOpen.Filter = "Видео | * .mp4";
+            if (PathAudioOpen.ShowDialog() == DialogResult.OK)
+            {
+                output = PathAudioOpen.FileName;
+                textBox4.Text = output.ToString();
+            }
+        }
+
+
+        //сохранить в формате gif
+        private void pictureBox20_Click(object sender, EventArgs e)
+        {
+            SaveFileDialog PathAudioSave = new SaveFileDialog();
+            PathAudioSave.Filter = "GIF | * .gif";
+            if (PathAudioSave.ShowDialog() == DialogResult.OK)
+            {
+                output2 = PathAudioSave.FileName;
+                textBox5.Text = output2.ToString();
+            }
+        }
+
+        //кнопка конвертации видео в gif
+        private void button5_Click(object sender, EventArgs e)
+        {
+            ProcessStartInfo psi = new ProcessStartInfo();
+
+            string GIFOpen = output;
+            string GIFSave = output2;
+            //Имя запускаемого приложения
+            psi.FileName = "cmd";
+            //команда, которую надо выполнить
+
+            psi.Arguments = $" @\"/k ffmpeg -i {GIFOpen} {GIFSave}";
+
+
+            //  /c - после выполнения команды консоль закроется
+            //  /к - не закрывать консоль после выполнения команды
+            Process.Start(psi);
+        }
+
+
+
         private void оПрограммеToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form2 f = new Form2();
@@ -259,8 +308,6 @@ namespace BoxVideoDownloader
         }
 
 
-
-
-}
+    }
 
 }
