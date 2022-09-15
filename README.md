@@ -34,7 +34,7 @@
 Скриншоты программы🦉
 
 
-![скрин1](https://user-images.githubusercontent.com/51737588/188282525-10a6991f-bce3-4b2d-8b73-66d2865a6721.jpg)
+![Безымянный](https://user-images.githubusercontent.com/51737588/190342617-2e5ee914-f18c-4025-bea4-e4d7931b1b9d.jpg)
 
 ![скрин2](https://user-images.githubusercontent.com/51737588/188301093-062099ab-919b-45ae-8908-5120f827972d.jpg)
 
