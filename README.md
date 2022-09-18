@@ -1,7 +1,14 @@
 # BoxVideoDownloader
 Скачивание видео youtube и m3u8 
 
-![icon for github](https://user-images.githubusercontent.com/51737588/187915147-e94a0484-ae41-47a0-aa07-05c14a425493.png)
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/51737588/190922047-01286c9e-7324-49fa-be14-b22903bc0ffa.png">
+</p>
+
+
+<p align = "center">
+  <img src = "https://img.shields.io/badge/%D0%9E%D0%A1%3A-Windows%207--10-blue">
+</p>
 
 Написана на языке C#
 
