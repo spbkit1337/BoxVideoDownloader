@@ -56,6 +56,7 @@
 Полезные ссылки🔗:
 
 1) Сайт с командами по yt-dlp https://www.mankier.com/1/yt-dlp
+2) как выпонять команды cmd в c# https://codeby.net/threads/kak-vypolnit-komandu-v-cmd-sredstvami-jazyka-c.67783/
 
 
 
