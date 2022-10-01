@@ -40,12 +40,15 @@
 
 Скриншоты программы🦉
 
+![1](https://user-images.githubusercontent.com/51737588/193414427-93db2935-8f7e-4f39-b0d9-1d6dd4efc896.jpg)
 
-![Безымянный](https://user-images.githubusercontent.com/51737588/190342617-2e5ee914-f18c-4025-bea4-e4d7931b1b9d.jpg)
+![2](https://user-images.githubusercontent.com/51737588/193414429-c2117213-320d-40d1-830e-aa4d7b9592ff.jpg)
 
-![скрин2](https://user-images.githubusercontent.com/51737588/188301093-062099ab-919b-45ae-8908-5120f827972d.jpg)
+![3](https://user-images.githubusercontent.com/51737588/193414430-fd2a2dcc-5591-469f-9466-34c4e1579bde.jpg)
 
-![скрин3](https://user-images.githubusercontent.com/51737588/188320648-2232dc33-b712-406c-9266-fb36c9e7dddf.jpg)
+![4](https://user-images.githubusercontent.com/51737588/193414432-1ff06004-8deb-4fff-b42d-414c26d4d4ce.jpg)
+
+
 
 
 
