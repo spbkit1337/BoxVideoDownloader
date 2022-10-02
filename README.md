@@ -46,9 +46,6 @@
 ![4](https://user-images.githubusercontent.com/51737588/193459074-40e903db-ec25-4e5e-ae97-32306f2714ba.jpg)
 ![5](https://user-images.githubusercontent.com/51737588/193459075-f66fa2f1-2571-4815-9d7e-cd466db21854.jpg)
 
-![видео](https://user-images.githubusercontent.com/51737588/193459080-25e41754-06b0-488b-844d-eaccc58e6874.gif)
-
-
 
 
 
@@ -60,6 +57,7 @@
 1) Сайт с командами по yt-dlp https://www.mankier.com/1/yt-dlp
 2) как выпонять команды cmd в c# https://codeby.net/threads/kak-vypolnit-komandu-v-cmd-sredstvami-jazyka-c.67783/
 3) читаем данные из cmd https://www.youtube.com/watch?v=5kUlRYAPyzw
+4) работа с progress bar и скачка файла напрямую https://www.youtube.com/watch?v=vioKCV5Aoww
 
 
 
