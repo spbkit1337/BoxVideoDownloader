@@ -40,15 +40,11 @@
 
 Скриншоты программы🦉
 
-![1](https://user-images.githubusercontent.com/51737588/193414427-93db2935-8f7e-4f39-b0d9-1d6dd4efc896.jpg)
-
-![2](https://user-images.githubusercontent.com/51737588/193414429-c2117213-320d-40d1-830e-aa4d7b9592ff.jpg)
-
-![3](https://user-images.githubusercontent.com/51737588/193414430-fd2a2dcc-5591-469f-9466-34c4e1579bde.jpg)
-
-![4](https://user-images.githubusercontent.com/51737588/193414432-1ff06004-8deb-4fff-b42d-414c26d4d4ce.jpg)
-
-
+![1](https://user-images.githubusercontent.com/51737588/193459069-4bd82af7-9dd2-417c-9f05-08140e01f9c8.jpg)
+![2](https://user-images.githubusercontent.com/51737588/193459071-8c6e1821-7afd-46bb-8c1e-08a5de3d3283.jpg)
+![3](https://user-images.githubusercontent.com/51737588/193459073-fa9f3102-4b72-4f2c-b999-d4b09a64ae6f.jpg)
+![4](https://user-images.githubusercontent.com/51737588/193459074-40e903db-ec25-4e5e-ae97-32306f2714ba.jpg)
+![5](https://user-images.githubusercontent.com/51737588/193459075-f66fa2f1-2571-4815-9d7e-cd466db21854.jpg)
 
 
 
@@ -61,6 +57,7 @@
 1) Сайт с командами по yt-dlp https://www.mankier.com/1/yt-dlp
 2) как выпонять команды cmd в c# https://codeby.net/threads/kak-vypolnit-komandu-v-cmd-sredstvami-jazyka-c.67783/
 3) читаем данные из cmd https://www.youtube.com/watch?v=5kUlRYAPyzw
+4) работа с progress bar и скачка файла напрямую https://www.youtube.com/watch?v=vioKCV5Aoww
 
 
 
