@@ -58,6 +58,7 @@
 2) как выпонять команды cmd в c# https://codeby.net/threads/kak-vypolnit-komandu-v-cmd-sredstvami-jazyka-c.67783/
 3) читаем данные из cmd https://www.youtube.com/watch?v=5kUlRYAPyzw
 4) работа с progress bar и скачка файла напрямую https://www.youtube.com/watch?v=vioKCV5Aoww
-
+5) Как перебрать строки из Listview https://www.cyberforum.ru/windows-forms/thread2311727.html
+ 
 
 
